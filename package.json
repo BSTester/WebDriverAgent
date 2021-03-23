@@ -1,6 +1,6 @@
 {
   "name": "appium-webdriveragent",
-  "version": "3.4.0",
+  "version": "3.6.0",
   "description": "Package bundling WebDriverAgent",
   "main": "build/index.js",
   "scripts": {
@@ -54,7 +54,7 @@
     "ios-uicatalog": "^3.5.0",
     "mocha": "^8.0.1",
     "pre-commit": "^1.2.2",
-    "sinon": "^9.0.2",
+    "sinon": "^10.0.0",
     "wd": "^1.11.4"
   },
   "dependencies": {
@@ -64,7 +64,7 @@
     "appium-support": "^2.46.0",
     "async-lock": "^1.0.0",
     "asyncbox": "^2.5.3",
-    "axios": "^0.21.0",
+    "axios": "^0.x",
     "bluebird": "^3.5.5",
     "lodash": "^4.17.11",
     "node-simctl": "^6.0.2",
